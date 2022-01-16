@@ -1,5 +1,5 @@
 # Introduction
-This is the code for MVPNet.
+This is the code for MVPNet.This code is only used for research purposes.
 
 
 # Dependencies
